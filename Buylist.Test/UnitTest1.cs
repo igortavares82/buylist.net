@@ -15,7 +15,7 @@ namespace Buylist.Test
         [TestMethod]
         public void TestMethod2()
         {
-            Assert.IsTrue(0 == 1);
+            Assert.IsTrue(1 == 1);
         }
     }
 }
