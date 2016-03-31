@@ -20,6 +20,7 @@ namespace Buylist.Controllers
         {
         }
 
+        //Igor
         public AccountController(UserManager<ApplicationUser> userManager)
         {
             UserManager = userManager;
